@@ -1,5 +1,6 @@
 # Quike-FinTech-SierraLeone
 A prototype application that makes money transaction seamless across Sierra Leone
+![Screenshot (2)](https://github.com/user-attachments/assets/2497edfb-70ff-414a-8e70-43f0e508ffa8)
 
 [Prototype][Uploading QUIKE – Figma_files…]()
 [Uploadin<!DOCTYPE html>
